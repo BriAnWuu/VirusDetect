@@ -1,4 +1,4 @@
 import cv2
 import numpy as np
 
-print('12345')
+path = '1.jpg'
